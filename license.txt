@@ -1,4 +1,4 @@
-BSD 3-Clause License
+salthound : Create fake words by using two-letter combination probabilities.
 
 Copyright (c) 2017, Jeff Weston
 All rights reserved.
