@@ -1,4 +1,4 @@
-salthound : Create fake words by using two-letter combination probabilities.
+BSD 3-Clause License
 
 Copyright (c) 2017, Jeff Weston
 All rights reserved.
